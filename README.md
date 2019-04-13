@@ -23,10 +23,10 @@ Python
 
 ### Visuals
 * Panorama Image obtained using Homography
-![pano]()
+![pano](https://github.com/disha-mehra/Homography-EpipolarGeometry-Kmeans/blob/master/Outputs/task1_pano.jpg)
 
 * Disparity Image obtained
-![disparity]()
+![disparity](https://github.com/disha-mehra/Homography-EpipolarGeometry-Kmeans/blob/master/Outputs/task2_disparity.jpg)
 
 * K-means clustering for color quantization
-![kmeans]()
+![kmeans](https://github.com/disha-mehra/Homography-EpipolarGeometry-Kmeans/blob/master/Outputs/task3_baboon_20.jpg)
